@@ -1,0 +1,576 @@
+{
+    "linkedin_url": "https://www.linkedin.com/in/mary-barra",
+    "profile": {
+        "profileUrl": "https://www.linkedin.com/in/mary-barra",
+        "username": "mary-barra",
+        "lastName": "Barra",
+        "dashEntityUrn": "ACoAAAKXsdABMUNfdYaKncs26A2_S3I4W9dID70",
+        "hasFetchedFollowing": false,
+        "industry": "Automotive",
+        "connectionsCount": 500,
+        "birthDate": null,
+        "dateAdded": {
+            "_seconds": 1652946144,
+            "_nanoseconds": 525000000
+        },
+        "emails": [],
+        "firstName": "Mary",
+        "twitter": null,
+        "premium": true,
+        "influencer": true,
+        "location": {
+            "country": "United States",
+            "default": "Detroit Metropolitan Area",
+            "city": null,
+            "short": "Detroit Metropolitan Area",
+            "state": null
+        },
+        "from": "api",
+        "id": "ACoAAAKXsdABMUNfdYaKncs26A2_S3I4W9dID70",
+        "summary": "General Motors Chair and CEO leading an outstanding team. Currently driving a GMC HUMMER #EV and Chevy Bolt EUV. Focused on delivering an all-electric future.",
+        "scoreEngagements": 4.272004146243442,
+        "score": 10.869095376055853,
+        "scoreRatioEngagement": 4.318867971629546,
+        "scoreFollowers": 0.6115565915161969,
+        "scoreNbPosts": 1.6666666666666667,
+        "nbEngagements": 18706,
+        "nbPosts": 10,
+        "image": "https://ez4cast.s3.eu-west-1.amazonaws.com/linkedinProfilePictures/ACoAAAKXsdABMUNfdYaKncs26A2_S3I4W9dID70.jpg",
+        "imageHosted": "https://ez4cast.s3.eu-west-1.amazonaws.com/linkedinProfilePictures/ACoAAAKXsdABMUNfdYaKncs26A2_S3I4W9dID70.jpg",
+        "companyIsAgency": false,
+        "companyIsStartup": false,
+        "companyIsSaas": false,
+        "companyName": "General Motors",
+        "companyIndustryTags": [
+            "Automotive",
+            "Manufacturing",
+            "Transportation",
+            "Engineering",
+            "Information Technology",
+            "Electrification",
+            "Cars",
+            "Trucks"
+        ],
+        "companyUsername": "general-motors",
+        "companyTargetMarket": "B2C",
+        "enrichedCompanyVersion": 4,
+        "isCompanyEnriched": true,
+        "lastFetchDate": {
+            "_seconds": 1684874408,
+            "_nanoseconds": 527000000
+        },
+        "toIndexMeilisearch": 9,
+        "isUpdatedDaily": true,
+        "lastUpdated": {
+            "_seconds": 1692227124,
+            "_nanoseconds": 436000000
+        },
+        "zFull": {
+            "projects": [],
+            "education": [
+                {
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "year": 1988,
+                            "day": null
+                        },
+                        "end": {
+                            "month": null,
+                            "year": 1990,
+                            "day": null
+                        }
+                    },
+                    "school": {
+                        "name": "Stanford University Graduate School of Business",
+                        "logo": "https://media.licdn.com/dms/image/C4D0BAQGyTHJCehyEuA/company-logo_400_400/0/1558642645742?e=1700092800&v=beta&t=9cnkf3PywPuHVODaVvZnxayNUjmtn5JpOJSTnEqC3pw",
+                        "url": "https://www.linkedin.com/school/stanford-graduate-school-of-business/"
+                    },
+                    "degree_name": "MBA",
+                    "field_of_study": "Business"
+                },
+                {
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "year": 1980,
+                            "day": null
+                        },
+                        "end": {
+                            "month": null,
+                            "year": 1985,
+                            "day": null
+                        }
+                    },
+                    "school": {
+                        "name": "Kettering University",
+                        "logo": "https://media.licdn.com/dms/image/C510BAQGl4zGt9ejZcw/company-logo_400_400/0/1519856208360?e=1700092800&v=beta&t=m91cxDSNGnvZQEJG2SnqjLU4_3wjm2GaaxWg8UgkVVU",
+                        "url": "https://www.linkedin.com/school/kettering-university/"
+                    },
+                    "degree_name": "BSEE",
+                    "field_of_study": "Electrical Engineering"
+                }
+            ],
+            "birth_date": null,
+            "industry": "Automotive",
+            "contact_info": {
+                "phone_numbers": [],
+                "twitter": null,
+                "websites": [],
+                "email": null
+            },
+            "network_info": {
+                "connections_count": 500,
+                "followers_count": 1335888,
+                "followable": true
+            },
+            "skills": [],
+            "premium": true,
+            "influencer": true,
+            "treasury_media": [],
+            "position_groups": [
+                {
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "year": 1990,
+                            "day": null
+                        },
+                        "end": {
+                            "month": null,
+                            "year": null,
+                            "day": null
+                        }
+                    },
+                    "profile_positions": [
+                        {
+                            "date": {
+                                "start": {
+                                    "month": 1,
+                                    "year": 2016,
+                                    "day": null
+                                },
+                                "end": {
+                                    "month": null,
+                                    "year": null,
+                                    "day": null
+                                }
+                            },
+                            "employment_type": null,
+                            "description": "Responsible for leading the Board of Directors, establishing General Motors' strategic direction and managing the company\u2019s day-to-day global operations, including vehicle sales in more than 125 countries.\n\nDriving General Motors to become the global industry leader in automotive technology and design, product quality and safety, customer experience and business results.\n\nLeading the company toward a future of zero crashes, zero emissions and zero congestion.",
+                            "location": "Greater Detroit Area",
+                            "company": "General Motors",
+                            "title": "Chair and Chief Executive Officer"
+                        },
+                        {
+                            "date": {
+                                "start": {
+                                    "month": 1,
+                                    "year": 2014,
+                                    "day": null
+                                },
+                                "end": {
+                                    "month": 1,
+                                    "year": 2016,
+                                    "day": null
+                                }
+                            },
+                            "employment_type": null,
+                            "description": "Responsible for day-to-day management of GM\u2019s global operations.\n\nAchieved record global sales, earnings and net income in 2015.\n\nRedefined the company\u2019s purpose and values, putting the customer at the center of everything GM does.",
+                            "location": null,
+                            "company": "General Motors",
+                            "title": "Chief Executive Officer"
+                        },
+                        {
+                            "date": {
+                                "start": {
+                                    "month": null,
+                                    "year": 2013,
+                                    "day": null
+                                },
+                                "end": {
+                                    "month": null,
+                                    "year": 2014,
+                                    "day": null
+                                }
+                            },
+                            "employment_type": null,
+                            "description": "Led the Global Product Development function responsible for Design, Engineering, Program Management and Purchasing, Supply Chain and Logistics.",
+                            "location": null,
+                            "company": "General Motors",
+                            "title": "Executive Vice President \u2013 Global Product Development"
+                        },
+                        {
+                            "date": {
+                                "start": {
+                                    "month": null,
+                                    "year": 2011,
+                                    "day": null
+                                },
+                                "end": {
+                                    "month": null,
+                                    "year": 2013,
+                                    "day": null
+                                }
+                            },
+                            "employment_type": null,
+                            "description": "Led the Global Product Development function responsible for Design, Engineering, Program Management and Quality.",
+                            "location": null,
+                            "company": "General Motors",
+                            "title": "Senior Vice President \u2013 Global Product Development"
+                        },
+                        {
+                            "date": {
+                                "start": {
+                                    "month": null,
+                                    "year": 2009,
+                                    "day": null
+                                },
+                                "end": {
+                                    "month": null,
+                                    "year": 2011,
+                                    "day": null
+                                }
+                            },
+                            "employment_type": null,
+                            "description": "Led the HR function globally during a period of unprecedented change.  Redefined talent management, leadership development, compensation, benefits, health care, organizational transformation and other HR systems.",
+                            "location": null,
+                            "company": "General Motors",
+                            "title": "Vice President \u2013 Global Human Resources"
+                        },
+                        {
+                            "date": {
+                                "start": {
+                                    "month": null,
+                                    "year": 2008,
+                                    "day": null
+                                },
+                                "end": {
+                                    "month": null,
+                                    "year": 2009,
+                                    "day": null
+                                }
+                            },
+                            "employment_type": null,
+                            "description": "Transformed Global Manufacturing Engineering operations.  Drove streamlining initiative recognized by the United States Treasury and major consulting groups for delivering \u201cindustry-leading flexibility strategy at benchmark investment levels.\u201d",
+                            "location": null,
+                            "company": "General Motors",
+                            "title": "Vice President \u2013 Global Manufacturing Engineering"
+                        },
+                        {
+                            "date": {
+                                "start": {
+                                    "month": null,
+                                    "year": 2004,
+                                    "day": null
+                                },
+                                "end": {
+                                    "month": null,
+                                    "year": 2008,
+                                    "day": null
+                                }
+                            },
+                            "employment_type": null,
+                            "description": "Built an industry-leading Manufacturing Engineering organization.  Integrated six independent groups into one manufacturing engineering operation to quickly improve performance and support product development.",
+                            "location": null,
+                            "company": "General Motors",
+                            "title": "Executive Director \u2013 Vehicle Manufacturing Engineering"
+                        },
+                        {
+                            "date": {
+                                "start": {
+                                    "month": null,
+                                    "year": 2003,
+                                    "day": null
+                                },
+                                "end": {
+                                    "month": null,
+                                    "year": 2004,
+                                    "day": null
+                                }
+                            },
+                            "employment_type": null,
+                            "description": null,
+                            "location": null,
+                            "company": "General Motors",
+                            "title": "Plant Manager, Detroit Hamtramck Assembly"
+                        },
+                        {
+                            "date": {
+                                "start": {
+                                    "month": null,
+                                    "year": 2001,
+                                    "day": null
+                                },
+                                "end": {
+                                    "month": null,
+                                    "year": 2003,
+                                    "day": null
+                                }
+                            },
+                            "employment_type": null,
+                            "description": null,
+                            "location": null,
+                            "company": "General Motors",
+                            "title": "Executive Director, Competitive Operations Engineering \u2013 Vehicle Operations"
+                        },
+                        {
+                            "date": {
+                                "start": {
+                                    "month": null,
+                                    "year": 1999,
+                                    "day": null
+                                },
+                                "end": {
+                                    "month": null,
+                                    "year": 2001,
+                                    "day": null
+                                }
+                            },
+                            "employment_type": null,
+                            "description": null,
+                            "location": null,
+                            "company": "General Motors",
+                            "title": "General Director, Internal Communications \u2013 Corporate Staffs"
+                        },
+                        {
+                            "date": {
+                                "start": {
+                                    "month": null,
+                                    "year": 1996,
+                                    "day": null
+                                },
+                                "end": {
+                                    "month": null,
+                                    "year": 1999,
+                                    "day": null
+                                }
+                            },
+                            "employment_type": null,
+                            "description": null,
+                            "location": null,
+                            "company": "General Motors",
+                            "title": "Executive Assistant to the Chairman & Vice Chairman"
+                        },
+                        {
+                            "date": {
+                                "start": {
+                                    "month": null,
+                                    "year": 1993,
+                                    "day": null
+                                },
+                                "end": {
+                                    "month": null,
+                                    "year": 1996,
+                                    "day": null
+                                }
+                            },
+                            "employment_type": null,
+                            "description": null,
+                            "location": null,
+                            "company": "General Motors",
+                            "title": "Manager, Manufacturing Planning \u2013 Midsize Car Division"
+                        },
+                        {
+                            "date": {
+                                "start": {
+                                    "month": null,
+                                    "year": 1990,
+                                    "day": null
+                                },
+                                "end": {
+                                    "month": null,
+                                    "year": 1993,
+                                    "day": null
+                                }
+                            },
+                            "employment_type": null,
+                            "description": null,
+                            "location": null,
+                            "company": "General Motors",
+                            "title": "Senior Staff Engineer, Operations Engineering Services \u2013 Chevrolet\u2013Pontiac\u2013Canada Group"
+                        }
+                    ],
+                    "company": {
+                        "name": "General Motors",
+                        "logo": "https://media.licdn.com/dms/image/C4D0BAQGi5bqIMQIO6g/company-logo_400_400/0/1644857988375?e=1700092800&v=beta&t=OCY2xz3kzZYl-p8oxrlJGP3l4m0E6hBnypKeJxn2JyM",
+                        "id": 1472,
+                        "employees": {
+                            "start": 10001,
+                            "end": null
+                        },
+                        "url": "https://www.linkedin.com/company/general-motors/"
+                    }
+                },
+                {
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "year": 1980,
+                            "day": null
+                        },
+                        "end": {
+                            "month": null,
+                            "year": 1988,
+                            "day": null
+                        }
+                    },
+                    "profile_positions": [
+                        {
+                            "date": {
+                                "start": {
+                                    "month": null,
+                                    "year": 1985,
+                                    "day": null
+                                },
+                                "end": {
+                                    "month": null,
+                                    "year": 1988,
+                                    "day": null
+                                }
+                            },
+                            "employment_type": null,
+                            "description": null,
+                            "location": null,
+                            "company": "General Motors",
+                            "title": "Acting Superintendent, Maintenance & Tooling/Senior Plant Engineer"
+                        },
+                        {
+                            "date": {
+                                "start": {
+                                    "month": null,
+                                    "year": 1980,
+                                    "day": null
+                                },
+                                "end": {
+                                    "month": null,
+                                    "year": 1985,
+                                    "day": null
+                                }
+                            },
+                            "employment_type": null,
+                            "description": null,
+                            "location": null,
+                            "company": "General Motors",
+                            "title": "Kettering University Co-op Student \u2013 Pontiac Motor Division"
+                        }
+                    ],
+                    "company": {
+                        "name": "General Motors",
+                        "logo": "https://media.licdn.com/dms/image/C4D0BAQGi5bqIMQIO6g/company-logo_400_400/0/1644857988375?e=1700092800&v=beta&t=OCY2xz3kzZYl-p8oxrlJGP3l4m0E6hBnypKeJxn2JyM",
+                        "id": 1472,
+                        "employees": {
+                            "start": 10001,
+                            "end": null
+                        },
+                        "url": "https://www.linkedin.com/company/general-motors/"
+                    }
+                }
+            ],
+            "volunteer_experiences": [],
+            "patents": [],
+            "test_scores": [],
+            "first_name": "Mary",
+            "summary": "General Motors Chair and CEO leading an outstanding team. Currently driving a GMC HUMMER #EV and Chevy Bolt EUV. Focused on delivering an all-electric future.",
+            "courses": [],
+            "sub_title": "Chair and Chief Executive Officer at General Motors",
+            "profile_type": "personal",
+            "languages": {
+                "supported_locales": [
+                    {
+                        "country": "US",
+                        "language": "en"
+                    }
+                ],
+                "profile_languages": [],
+                "primary_locale": {
+                    "country": "US",
+                    "language": "en"
+                }
+            },
+            "last_name": "Barra",
+            "profile_picture": "https://media.licdn.com/dms/image/C4E03AQGIdypo37wBGw/profile-displayphoto-shrink_800_800/0/1605879367277?e=1697673600&v=beta&t=7mdlOTP9jdOLlXDf9ShDe1FYTFFfJgRbxNDI-dzbwMc",
+            "object_urn": 43495888,
+            "certifications": [],
+            "background_image": "https://media.licdn.com/dms/image/C4E16AQH8UzeISPQLAg/profile-displaybackgroundimage-shrink_350_1400/0/1605891661458?e=1697673600&v=beta&t=TvYU6hNQ6WKKX6H_Ev-tDL4Q540-zLQl7gk6AMfgvq8",
+            "related_profiles": [],
+            "entity_urn": "ACoAAAKXsdABMUNfdYaKncs26A2_S3I4W9dID70",
+            "awards": [],
+            "profile_id": "mary-barra",
+            "organizations": [
+                {
+                    "date_start": {
+                        "month": 1,
+                        "year": 2022,
+                        "day": null
+                    },
+                    "name": "Business Roundtable ",
+                    "date_end": null,
+                    "position": "Chair"
+                },
+                {
+                    "date_start": {
+                        "month": 6,
+                        "year": 2020,
+                        "day": null
+                    },
+                    "name": "GM\u2019s Inclusion Advisory Board",
+                    "date_end": null,
+                    "position": "Chair and founding member"
+                },
+                {
+                    "date_start": null,
+                    "name": "Detroit Economic Club",
+                    "date_end": null,
+                    "position": "Board of Directors"
+                },
+                {
+                    "date_start": null,
+                    "name": "Duke University",
+                    "date_end": null,
+                    "position": "Board of Trustees"
+                },
+                {
+                    "date_start": null,
+                    "name": "The Business Council",
+                    "date_end": null,
+                    "position": "Member"
+                },
+                {
+                    "date_start": null,
+                    "name": "The Walt Disney Company",
+                    "date_end": null,
+                    "position": "Board of Directors"
+                }
+            ],
+            "location": {
+                "country": "United States",
+                "default": "Detroit Metropolitan Area",
+                "city": null,
+                "short": "Detroit Metropolitan Area",
+                "state": null
+            },
+            "publications": []
+        },
+        "fetchVersion": 2,
+        "followersCount": 1335888,
+        "imageBanner": "https://media.licdn.com/dms/image/C4E16AQH8UzeISPQLAg/profile-displaybackgroundimage-shrink_350_1400/0/1605891661458?e=1697673600&v=beta&t=TvYU6hNQ6WKKX6H_Ev-tDL4Q540-zLQl7gk6AMfgvq8"
+    },
+    "profile_enrich": {
+        "success": 1,
+        "contacts": [
+            {
+                "emails": [
+                    "mary.barra@gm.com"
+                ],
+                "contact": {
+                    "emails": [
+                        "mary.barra@gm.com"
+                    ],
+                    "id": "ACoAAAKXsdABMUNfdYaKncs26A2_S3I4W9dID70",
+                    "username": "mary-barra"
+                }
+            }
+        ]
+    }
+}
